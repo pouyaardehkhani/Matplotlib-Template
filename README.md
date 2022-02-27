@@ -1,2 +1,2 @@
 # Matplotlib-Template ![license](https://img.shields.io/github/license/pouyaardehkhani/Matplotlib-Template.svg) <a href="https://colab.research.google.com/github/pouyaardehkhani/Matplotlib-Template/blob/master/Matplotlib.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-this is some basic template of how to use matplotlib for data visualization and plotting.
+This is some basic template of how to use matplotlib for data visualization and plotting.
